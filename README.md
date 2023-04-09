@@ -12,7 +12,7 @@ __factorial(n)__ - computes the factorial of a given integer using recursion.
 
 __fibonacci(n)__ - computes the nth number in the Fibonacci sequence using recursion.
 
-__binomial coefficient(n,k)__ - is the order of choosing ‘k’ results from the given ‘n’ possibilities.
+
 __findMin()__-finding minimum of array
 __findAvg()__-finding average of array
 
